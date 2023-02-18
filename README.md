@@ -7,6 +7,9 @@
 
 - ⚡ **Barrier free thinker | Challenger | Futuristic**
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=regexnative&show_icons=true&locale=en&layout=compact" alt="regexnative" /></p>
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/regexnative" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="regexnative" height="30" width="40" /></a>
@@ -22,7 +25,7 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://ko-fi.com/regexnative"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="regexnative" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=regexnative&show_icons=true&locale=en&layout=compact" alt="regexnative" /></p>
+
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=regexnative&show_icons=true&locale=en" alt="regexnative" /></p>
 
