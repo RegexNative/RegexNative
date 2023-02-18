@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Praveen</h1>
-<h3 align="center">**Barrier free thinker | Challenger | Futuristic**</h3>
+<h3 align="center">Barrier free thinker | Challenger | Futuristic</h3>
 
 <h3 align="center">As a software engineer, my mission is to create innovative and user-centric technology solutions that improve the lives of individuals and organizations. I am dedicated to continuously learning and staying up-to-date with the latest developments in the field in order to deliver high-quality software products.</h3>
 
