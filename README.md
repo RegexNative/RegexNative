@@ -9,7 +9,7 @@
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=regexnative&theme=nightowl&hide_border=false&include_all_commits=true&count_private=false" alt="regexnative" /></p>
 
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=regexnative&theme=nightowl&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="regexnative" /></p><br><br><br><br><br><br>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=regexnative&theme=nightowl&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="regexnative" /></p><br><br><br><br><br><br><br><br><br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
