@@ -7,9 +7,10 @@
 
 - ⚡ **Barrier free thinker | Challenger | Futuristic**
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=regexnative" alt="regexnative" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=regexnative&theme=nightowl&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="regexnative" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=regexnative&show_icons=true&locale=en" alt="regexnative" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=regexnative&theme=nightowl&hide_border=false&include_all_commits=true&count_private=false" alt="regexnative" /></p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
