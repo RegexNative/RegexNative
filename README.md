@@ -1,15 +1,11 @@
 <h1 align="center">Hi 👋, I'm Praveen</h1>
 <h3 align="center">A passionate software engineer from Sri Lanka</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=regexnative&label=Profile%20views&color=0e75b6&style=flat" alt="regexnative" /> </p>
-
-
-
 - 👨‍💻 All of my projects are available at [https://github.com/RegexNative](https://github.com/RegexNative)
 
 - 📫 How to reach me **praveenwattegedara5@gmail.com**
 
-- ⚡  **Barrier free thinker | Challenger | Futuristic**
+- ⚡ **Barrier free thinker | Challenger | Futuristic**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -29,6 +25,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=regexnative&show_icons=true&locale=en&layout=compact" alt="regexnative" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=regexnative&show_icons=true&locale=en" alt="regexnative" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=regexnative&" alt="regexnative" /></p>
 
