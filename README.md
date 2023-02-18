@@ -9,6 +9,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=regexnative&show_icons=true&locale=en&layout=compact" alt="regexnative" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=regexnative&show_icons=true&locale=en" alt="regexnative" /></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -27,5 +28,5 @@
 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=regexnative&show_icons=true&locale=en" alt="regexnative" /></p>
+
 
