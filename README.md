@@ -1,18 +1,17 @@
 <h1 align="center">Hi 👋, I'm Praveen</h1>
-<h3 align="center">A passionate software engineer from Sri Lanka</h3>
+<h3 align="center">**Barrier free thinker | Challenger | Futuristic**</h3>
+
+<h3 align="center">As a software engineer, my mission is to create innovative and user-centric technology solutions that improve the lives of individuals and organizations. I am dedicated to continuously learning and staying up-to-date with the latest developments in the field in order to deliver high-quality software products.</h3>
 
 - 👨‍💻 All of my projects are available at [https://github.com/RegexNative](https://github.com/RegexNative)
 
 - 📫 How to reach me **praveenwattegedara5@gmail.com**
 
-- ⚡ **Barrier free thinker | Challenger | Futuristic**
-
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=regexnative&theme=nightowl&hide_border=false&include_all_commits=true&count_private=false" alt="regexnative" /></p><br><br><br><br><br><br><br>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=regexnative&theme=nightowl&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="regexnative" /></p>
 
 
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=regexnative&theme=nightowl&hide_border=false&include_all_commits=true&count_private=false" alt="regexnative" /></p><br><br><br><br><br><br><br><br>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=regexnative&theme=nightowl&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="regexnative" /></p><br><br><br><br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
