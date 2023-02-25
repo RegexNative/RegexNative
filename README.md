@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Praveen</h1>
 <h4 align="center">Barrier free thinker | Challenger | Futuristic</h4>
 
-<h4 align="center">I am a software engineer with a passion for creating innovative solutions to complex problems. I have a strong background in programming and am comfortable working with a variety of programming languages, including JavaScript, Python, and Go Language.</h4><br>
-
+<h4 align="center"> I am a software engineer with a passion for innovation and technology and In my free time, I enjoy coding personal projects and staying up-to-date with industry trends. </h4><br>
 
 - 👨‍💻 All of my projects are available at [https://github.com/codingtravis1](https://github.com/codingtravis1)
 
