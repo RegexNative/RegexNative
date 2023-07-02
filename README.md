@@ -3,7 +3,7 @@
 
 <h4 align="center"> I am a software engineer with a passion for innovation and technology.<br> In my free time, I enjoy coding personal projects and staying up-to-date with industry trends. </h4><br>
 
-- 👨‍💻 All of my projects are available at [https://github.com/codingtravis1](https://github.com/gnomeglimmer)
+- 👨‍💻 All of my projects are available at [https://github.com/gnomeglimmer](https://github.com/gnomeglimmer)
 
 - 📫 How to reach me **praveenwattegedara43@gmail.com**<br><br>
 
